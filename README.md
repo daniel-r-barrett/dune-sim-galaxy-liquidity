@@ -1,7 +1,5 @@
 # dune-sim-galaxy-liquidity
 
-# Urbit Galaxy Liquidity – Dune Sim Demo
-
 Small proof-of-concept for Dune’s Solutions Architect application.
 
 ## Goal
@@ -11,8 +9,8 @@ value of every token they hold across 60+ EVM chains (via Sim APIs).
 ## Quick-start
 
 ```bash
-git clone https://github.com/<you>/urbit-galaxy-liquidity.git
-cd urbit-galaxy-liquidity
+git clone https://github.com/daniel-r-barrett/dune-sim-galaxy-liquidity.git
+cd dune-sim-galaxy-liquidity
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
